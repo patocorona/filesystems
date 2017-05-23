@@ -26,7 +26,7 @@ iso9660  |  Humberto Chávez
 minux  |  
 msdos  |  
 vfat  |  
-hpfs  |  
+hpfs  |  Raul Escalante
 nfs  |  
 swap  |  Emmanuel Zúñiga
 sysv  |  
