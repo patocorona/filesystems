@@ -25,7 +25,7 @@ ext4  |  Josue Ortiz Novoa
 iso9660  |  Humberto Chávez
 minux  |  
 msdos  |  
-vfat  |  
+vfat  |  Paola Corona
 hpfs  |  Raul Escalante
 nfs  |  
 swap  |  Emmanuel Zúñiga
