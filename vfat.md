@@ -19,7 +19,7 @@ Posicionado. Los slots de un fichero siempre están inmediatamente después de s
     ==> slot #1, id = 0x01, caracteres = "Mi Fichero la"
     ==> entrada de directorio, nombre = "MIFICHER.EXT">
 
-    Observe que los slots se almacenan del último al primero. Los slots se numeran de 1 hasta N. Al N-ésimo slot se le aplica un OR lógico con 0x40 para indicar que es el último.
+Se observa que los slots se almacenan del último al primero. Los slots se numeran de 1 hasta N. Al N-ésimo slot se le aplica un OR lógico con 0x40 para indicar que es el último.
 
 Checksum. Cada slot tiene un valor "alias_checksum". El checksum se calcula a partir del nombre 8.3 utilizando el siguiente algoritmo:
 
